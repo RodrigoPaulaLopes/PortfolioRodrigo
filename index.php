@@ -116,7 +116,7 @@
                         <img class="card-img-top" src="./public/img/clorocine.png" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">Cadastro de Filmes - LionsFilm's</h5>
-                            <p class="card-text">Projeto feio para cadastrar seus filmes e favoritalos.</p>
+                            <p class="card-text">Projeto feito para cadastrar seus filmes e favorita-los.</p>
                             <a href="https://github.com/RodrigoPaulaLopes/Clorocine" class="btn btn-success">Repositorio</a>
                         </div>
                     </div>
