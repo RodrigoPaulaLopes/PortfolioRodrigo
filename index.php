@@ -63,8 +63,8 @@
                     <div class="row">
                         <div class="col-12 mt-3">
                             <h3 id="sobre">Um pouco sobre mim</h3>
-                            <p>Olá, meu nome é Rodrigo sou estudante de sistemas de informação pela Unesa - Universidade Estácio de Sá,
-                                Atualmente estou estudando para ser um programador fullstack. sou apaixonado por programação e sempre procuro estar evoluindo meu conhecimento
+                            <p>Olá, meu nome é Rodrigo, sou estudante de sistemas de informação pela Unesa - Universidade Estácio de Sá.
+                                Atualmente estou estudando para ser um programador fullstack. Sou apaixonado por programação e sempre procuro estar evoluindo meu conhecimento.
                                 Tenho como objetivo e SONHO ajudar as pessoas mais carentes com a tecnologia e educação fazendo assim um mundo melhor para todos. </p>
                         </div>
                     </div>
