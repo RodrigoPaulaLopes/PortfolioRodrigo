@@ -1,0 +1,44 @@
+.imagem{
+    height: 100%;
+    width: 80%;
+    border: solid 3px #198754;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.italico{
+    font-style: italic;
+}
+body{
+    height: 100%;
+    font-size: 1rem;
+}
+
+span{
+    font-size: 1rem;
+}
+h3{
+    margin: 10px 15px;
+}
+.cartas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;   
+     
+}
+.card{
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.link-rodape li{
+    list-style: none;
+}
+.link-rodape a{
+    text-decoration: none;
+    color: white;
+
+}
+.link-rodape a:hover{
+    color: #198754;
+    transition: 1s;
+
+}
