@@ -152,7 +152,7 @@
                             <div class="card-body">
                                 <i class="fab fa-linkedin fa-3x"></i>
                                 <h5 class="card-title">linkedin</h5>
-                                <p class="card-text">Visite meu linkdin para ficar por dentro do meu dia a dia como programador.</p>
+                                <p class="card-text">Visite meu linkedin para ficar por dentro do meu dia a dia como programador.</p>
                                 <a href="https://www.linkedin.com/in/rodrigopaulalopes/" class="btn btn-outline-success">Contate-me</a>
                             </div>
                         </div>
